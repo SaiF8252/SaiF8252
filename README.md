@@ -19,7 +19,7 @@
 - 🎓 Student of Web Application Development  
 - 🌱 Learning Angular, React, Node.js, Express.js  
 - 💬 Ask me about HTML, CSS, JS, C#, MVC  
-- 📫 Email: msisaif1999@gmail.com  
+- 📫 Email: saiful208252@gmail.com  
 - ⚡ Love solving bugs 🐞  
 
 ---
